@@ -1,3 +1,5 @@
+<i> ** This synthetic data generator and mathematical framework were developed as part of the Data Modeling Track for the Eskwelabs Innovation Fellowship (Cohort 10).
+</i>
 # Commercial Energy Optimization Synthetic Data
 A synthetic data model and Python generator simulating commercial energy consumption using thermodynamic principles.
 
