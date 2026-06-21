@@ -25,6 +25,6 @@ Crucially, the dataset was injected with two intentional "Omitted Variable Biase
 **Unreported Overtime Multiplier:** A hidden variable that secretly increases energy consumption by 20% between 18:00 and 21:00 to simulate employees staying late without logging it.
 
 # Business Value & Optimization
-By training a predictive linear regression model strictly on observed features (weather and occupancy), this project established a distinct prediction ceiling. Because the model cannot "see" the deleted insulation data, its massive prediction failures accurately flag the hidden anomalies.
+By training a predictive linear regression model strictly on observed features (weather, occupancy, and pricing), this project established a distinct systematic underprediction. Because the model cannot 'see' the deleted insulation data, actual costs consistently exceed model predictions for these penalized buildings. By graphing the residual errors, the model's massive divergence accurately flags the hidden anomalies.
 
 This demonstrates how facilities managers can use intentional prediction residual errors as an Automated Anomaly Detection tool to find degraded infrastructure, and leverage Real-Time Pricing constraints to optimize peak load shifting.
