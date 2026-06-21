@@ -2,7 +2,7 @@
 A synthetic data model and Python generator simulating commercial energy consumption using thermodynamic principles.
 
 # Abstract
-Commercial real estate infrastructure accounts for a massive portion of global energy consumption, but proprietary restrictions make high-fidelity data scarce. This project introduces a rigorous mathematical framework and a highly scalable Python-based synthetic data generator to simulate realistic commercial energy consumption across a diverse portfolio of buildings. The resulting datasets allow for advanced machine learning research and infrastructure optimization without relying on confidential operational data.
+Commercial real estate infrastructure accounts for a massive portion of global energy consumption, but proprietary restrictions make high-fidelity data scarce. This project introduces a comprehensive mathematical framework and a highly scalable Python-based synthetic data generator to simulate realistic commercial energy consumption across a diverse portfolio of buildings. The resulting datasets allow for advanced machine learning research and infrastructure optimization without relying on confidential operational data.
 
 # The Mathematical Framework
 To ensure strict physical realism, this data generator was programmed using first-principles physics and economic algorithms:
